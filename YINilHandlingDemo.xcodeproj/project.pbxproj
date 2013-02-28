@@ -34,6 +34,7 @@
 		488A79BE16DF46060033DE61 /* NSArray+YINilHandling.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSArray+YINilHandling.m"; sourceTree = "<group>"; };
 		488A79BF16DF46060033DE61 /* NSDictionary+YINilHandling.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDictionary+YINilHandling.h"; sourceTree = "<group>"; };
 		488A79C016DF46060033DE61 /* NSDictionary+YINilHandling.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDictionary+YINilHandling.m"; sourceTree = "<group>"; };
+		488A79C316DF50120033DE61 /* YINilHandling.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YINilHandling.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +95,7 @@
 		488A79BC16DF46060033DE61 /* YINilHandling */ = {
 			isa = PBXGroup;
 			children = (
+				488A79C316DF50120033DE61 /* YINilHandling.h */,
 				488A79BD16DF46060033DE61 /* NSArray+YINilHandling.h */,
 				488A79BE16DF46060033DE61 /* NSArray+YINilHandling.m */,
 				488A79BF16DF46060033DE61 /* NSDictionary+YINilHandling.h */,
@@ -258,6 +260,7 @@
 				488A79BB16DF45B60033DE61 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

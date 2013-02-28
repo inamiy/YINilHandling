@@ -7,8 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "NSArray+YINilHandling.h"
-#import "NSDictionary+YINilHandling.h"
+#import "YINilHandling.h"
 
 int main(int argc, const char * argv[])
 {
